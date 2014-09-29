@@ -16,12 +16,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="preferences_alerts_custom_snooze_delay_title">Snoozeduur vragen</string>
-  <string name="preferences_alerts_custom_snooze_delay_summary_on">Duur vragen bij het snoozen van een herinnering</string>
-  <string name="preferences_alerts_custom_snooze_delay_summary_off">Altijd de standaardduur gebruiken</string>
-  <string name="snooze_delay_dialog_title">Snoozeduur instellen</string>
-  <string name="preferences_default_snooze_delay_title">Standaardsnoozeduur</string>
-  <string name="preferences_default_snooze_delay_dialog">Standaardsnoozeduur</string>
-  <string name="default_start_title">Standaardweergave</string>
-  <string name="default_start_last">Laatst gebruikte weergave</string>
+  <string name="preferences_alerts_custom_snooze_delay_title">Erënnerung fir d\'Widderhuelungszäit</string>
 </resources>
